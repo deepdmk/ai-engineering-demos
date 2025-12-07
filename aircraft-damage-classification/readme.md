@@ -35,7 +35,7 @@ Download the [Aircraft Damage Dataset](https://universe.roboflow.com/youssef-don
 
 ### Run
 
-Open `Final_Project_Classification_and_Captioning.ipynb` in Jupyter and run all cells.
+Open `vgg16_aircraft_damage_detection.ipynb` in Jupyter and run all cells.
 
 ## Model Architecture
 
