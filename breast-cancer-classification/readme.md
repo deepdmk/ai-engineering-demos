@@ -37,7 +37,7 @@ The project uses the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://arch
 
 ### Run
 
-Open `PRACTICE_Neural_Network_for_Breast_Cancer_Classification.ipynb` in Jupyter to explore the implementation.
+Open `breast_cancer_classification_pytorch.ipynb` in Jupyter to explore the implementation.
 
 ## Model Architecture
 
